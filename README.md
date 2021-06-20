@@ -1,7 +1,6 @@
 # gluster
 
-
-this script deploy gluster :
+THIS SCRIPT HOW TO DEPLOY GLUSTER :
 
 
     hostnamectl set-hostname node1
